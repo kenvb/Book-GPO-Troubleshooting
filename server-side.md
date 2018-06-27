@@ -28,7 +28,7 @@ Via de Group Policy Management Console echter kan je makkelijk ook een gpresult 
 
 ![](.gitbook/assets/gprwizard.PNG)
 
-Heel wat meer informatie over de Group Policy Results Wizard kan je \[hier\]\([https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780305\(v=ws.10\](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780305%28v=ws.10\)\)\). terugvinden.
+Heel wat meer informatie over de Group Policy Results Wizard kan je  [hier](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780305%28v=ws.10%29) terugvinden.
 
 ## Virtualisatie
 
